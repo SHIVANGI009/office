@@ -1,0 +1,7 @@
+excel
+powerpoint
+word
+notepad
+todolist
+clock
+browser
